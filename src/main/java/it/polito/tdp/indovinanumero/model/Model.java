@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Model {
-	
+	//
 	private final int NMAX = 100;
 	private final int TMAX = 8;
 	private int segreto;
