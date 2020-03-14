@@ -10,7 +10,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 
 public class FXMLController {
-	
+	//
 	private final int NMAX = 100;
 	private final int TMAX = 8;
 	private int segreto;
