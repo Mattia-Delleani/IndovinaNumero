@@ -66,7 +66,7 @@ public class FXMLController {
     		
     	}
     	
-    	int risultato = -2;
+    	int risultato = -1;
     	try {
     		
     	risultato = this.model.tentativo(tentativo);
